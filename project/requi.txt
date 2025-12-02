@@ -1,0 +1,6 @@
+pandas
+matplotlib
+flask
+reportlab
+scikit-learn
+statsmodels

@@ -1,0 +1,15 @@
+Belle Croissant Lyonnais — Customer API Design
+
+Endpoints:
+- GET /api/customers
+- POST /api/customers
+- GET /api/products
+- POST /api/orders
+- GET /api/orders/<id>
+
+Example JSON:
+{
+  "customer_id": 1,
+  "name": "John Doe",
+  "orders": [101, 102]
+}
